@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Neel Shah from India.<br><br>🔭 I’m working as a fresher, exploring Software Engineering, Data Analytics, DevOps, and Cloud.<br><br>📚 I'm currently learning AWS, Kubernetes, Jenkins, Generative AI, and advanced Data Analytics.<br><br>⚡ In my free time, I contribute to open-source projects, practice DSA, and explore new DevOps tools & cloud services.</p>
+<p align="left">I'm Neel Shah from India.<br><br>🔭 I’m a fresher, exploring Software Engineering, Data Analytics, DevOps, and Cloud roles.<br><br>📚 I'm currently learning AWS, Kubernetes, Jenkins, Generative AI, and advanced Data Analytics.<br><br>⚡ In my free time, I contribute to open-source projects, practice DSA, and explore new DevOps tools & cloud services.</p>
 
 ###
 
